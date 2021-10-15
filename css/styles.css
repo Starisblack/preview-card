@@ -1,0 +1,95 @@
+body{
+  text-align: center;
+  font-size: 15px;
+  background-color: hsl(233, 47%, 7%);
+  font-family:'Inter', sans-serif;
+  max-width: 1440px;
+}
+
+img{
+  height: 407px;
+  width: 540px;
+}
+
+
+.container{
+    display:inline-block;
+}
+
+.top-container{
+  height: 407px;
+  width: 540px;
+  margin: 0;
+  float: right;
+  position: relative;
+  top: 150px;
+  left: 50px;
+
+}
+
+p{
+  color: hsla(0, 0%, 100%, 0.75);
+}
+
+h1{
+  color: hsl(0, 0%, 100%);
+}
+.overlay{
+  background-color: hsl(277, 64%, 61%);
+  height: 407px;
+  width: 540px;
+  opacity: 0.7;
+  position: relative;
+  bottom: 411px;
+  margin: 0 auto;
+}
+
+
+.middle-container{
+  display: inline-block;
+  height:  407px;
+  width:  540px;
+  background-color: hsl(244, 38%, 16%);
+  position: relative;
+  top: 150px;
+  left: 50px;
+  margin: 0;
+}
+
+.head-text{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.insights{
+  color: hsl(277, 64%, 61%);
+}
+
+.customer{
+  width: 350px;
+  padding-bottom: 150px;
+  text-align: left;
+}
+
+.three{
+width: 350px;
+position: relative;
+bottom: 100px;
+}
+.companies{
+display: inline;
+position: absolute;
+left: 0;
+}
+.templates{
+  position: absolute;
+  top: 0;
+  left: 150px;
+}
+
+
+.queries{
+  position: absolute;
+  right: 0;
+  top:0;
+}
